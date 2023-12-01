@@ -8,8 +8,6 @@ With 2 years of hands-on experience, I've been actively involved in the developm
 
 ## What I Do
 
-## What I Do
-
 - 🚀 Collaborating with cross-functional teams to deliver a flawless product.
 - 💻 Developing innovative features for banking applications.
 - 🔐 Adding robust validations to fortify payment security.
