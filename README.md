@@ -4,7 +4,7 @@ Hello there! 👋 I'm Asiff MD, a passionate software developer with a focus on 
 
 ## Professional Background
 
-With 2 years of hands-on experience, I've been actively involved in the development of cutting-edge solutions within the banking domain. My journey as a software developer has allowed me to delve into the complexities of financial systems, contributing to the evolution of innovative and secure software.
+With 3 years of hands-on experience, I've been actively involved in the development of cutting-edge solutions within the banking domain. My journey as a software developer has allowed me to delve into the complexities of financial systems, contributing to the evolution of innovative and secure software.
 
 ## What I Do
 
